@@ -188,9 +188,10 @@ namespace Assignment
                     Debug.Log(my2DArray[row, col]);
                 }
             }
-            Debug.Log($"{my2DArray[0, 0]} {my2DArray[0, 1]} {my2DArray[0, 2]}");
-            Debug.Log($"{my2DArray[1, 0]} {my2DArray[1, 1]} {my2DArray[1, 2]}");
-            Debug.Log($"{my2DArray[2, 0]} {my2DArray[2, 1]} {my2DArray[2, 2]}");
+
+            // Debug.Log($"{my2DArray[0, 0]} {my2DArray[0, 1]} {my2DArray[0, 2]}");
+            // Debug.Log($"{my2DArray[1, 0]} {my2DArray[1, 1]} {my2DArray[1, 2]}");
+            // Debug.Log($"{my2DArray[2, 0]} {my2DArray[2, 1]} {my2DArray[2, 2]}");
 
 
 
