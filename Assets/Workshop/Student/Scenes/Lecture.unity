@@ -145,7 +145,7 @@ Light:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 697749221}
   m_Enabled: 1
-  serializedVersion: 13
+  serializedVersion: 12
   m_Type: 1
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
   m_Intensity: 1
@@ -197,7 +197,7 @@ Light:
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ForceVisible: 0
-  m_ShapeRadius: 0.025
+  m_ShadowRadius: 0
   m_ShadowAngle: 0
   m_LightUnit: 1
   m_LuxAtDistance: 1
@@ -367,7 +367,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ded01441108a274ea0e26ba5ef57e8a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Assignment.Lecture
-  lct04_ironManSuitNames: []
+  lct04_ironManSuitNames:
+  - Mark I
+  - Mark II
+  - Mark III
+  - Mark IV
+  - Mark V
+  - Mark VI
+  - Mark VII
   lct06_my2DArray:
     rows: 3
     cols: 5
