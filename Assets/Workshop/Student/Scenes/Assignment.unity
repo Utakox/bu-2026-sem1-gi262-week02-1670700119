@@ -171,10 +171,8 @@ MonoBehaviour:
   - {fileID: 8981274605333006497, guid: 93d0b3edf258c194ca8e4bdaedb3507d, type: 3}
   - {fileID: 5525326628935868067, guid: 42ae0a1037f220c46be78186c07b001e, type: 3}
   - {fileID: 4018252664251982846, guid: 0603b002125343345830af079f75689f, type: 3}
-  - {fileID: 6338718052967692477, guid: 4344d40571f47834fb66e2019c9b3176, type: 3}
-  - {fileID: 6447585732716477075, guid: fc041445e99b67f4398f47be2d0833ad, type: 3}
-  as02_columns: 3
-  as02_rows: 3
+  as02_columns: 10
+  as02_rows: 10
   as03_wall: {fileID: 5291166318002269242, guid: 413c1aa8e8dffdd448102fbcf99aaf6d, type: 3}
   as03_columns: 5
   as03_rows: 5
@@ -198,7 +196,7 @@ MonoBehaviour:
   - "\u0E41\u0E25\u0E49\u0E27\u0E40\u0E08\u0E2D\u0E01\u0E31\u0E19\u0E43\u0E2B\u0E21\u0E48"
   - "\u0E2A\u0E27\u0E31\u0E2A\u0E14\u0E35"
   as09_n: 2
-  as10_n: 15
+  as10_n: 5
   as11_enemyHPs: 0f0000001400000019000000
   as11_enemyPrefab: {fileID: 8402306337599026408, guid: 750804a3353a1434ab71f408a13e1b58, type: 3}
   as12_countTime: 5
@@ -347,7 +345,7 @@ Light:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1257016738}
   m_Enabled: 1
-  serializedVersion: 13
+  serializedVersion: 12
   m_Type: 1
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
   m_Intensity: 1
@@ -399,7 +397,7 @@ Light:
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ForceVisible: 0
-  m_ShapeRadius: 0.025
+  m_ShadowRadius: 0
   m_ShadowAngle: 0
   m_LightUnit: 1
   m_LuxAtDistance: 1
